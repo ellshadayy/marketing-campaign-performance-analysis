@@ -50,7 +50,7 @@ https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-da
 
 ## Dashboard Preview
 
-![Dashboard](../images/Marketing_Dashboard.png)
+![Dashboard](/images/Marketing_Dashboard.png)
 
 ---
 
